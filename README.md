@@ -8,7 +8,7 @@ of a string s1 is in the s2 string.
 If interested in my approach and comments I invite you
 to check out the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/11/09/permutation-in-string/
 
 Keep in mind that one of the best ways to learn and refresh
 concepts is to read and experiment. Practice makes perfect.
